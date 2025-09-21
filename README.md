@@ -1,5 +1,6 @@
-<img width="601" height="147" alt="image" src="https://github.com/user-attachments/assets/44556c94-a591-4617-9863-a075932b31cd" /># Convergent-Divergent-Nozzle-CFD-Analysis
+ Convergent-Divergent-Nozzle-CFD-Analysis
 Comprehensive CFD simulation of compressible flow through a convergent-divergent (C-D) nozzle to investigate flow characteristics, shock wave formation, and pressure distribution across various operating conditions.
+
 <img width="651" height="169" alt="image" src="https://github.com/user-attachments/assets/bd9878d0-0237-40ed-ab59-c1cb896bcee4" />
 
 
