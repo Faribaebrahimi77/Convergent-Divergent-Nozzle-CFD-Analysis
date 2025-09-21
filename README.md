@@ -38,16 +38,23 @@ Shock in Nozzle: Internal shock wave formation
 Flow Properties
 
 ✅ Mach Number Distribution: Subsonic to supersonic transition
+
 ✅ Pressure Ratio: Total to static pressure variations
+
 ✅ Temperature Distribution: Compressibility effects
+
 ✅ Density Changes: Compressible flow characteristics
+
 ✅ Velocity Profiles: Flow acceleration through nozzle
 
 Performance Metrics
 
 ✅ Mass Flow Rate: Choked flow calculations
+
 ✅ Discharge Coefficient: Actual vs. theoretical flow
+
 ✅ Thrust Coefficient: Propulsive performance
+
 ✅ Pressure Recovery: Diffuser performance (if applicable)
 
 🛠️ CFD Methodology
