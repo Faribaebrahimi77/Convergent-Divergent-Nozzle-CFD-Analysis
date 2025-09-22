@@ -5,7 +5,7 @@ Comprehensive CFD simulation of compressible flow through a convergent-divergent
 <img width="651" height="169" alt="image" src="https://github.com/user-attachments/assets/bd9878d0-0237-40ed-ab59-c1cb896bcee4" />
 
 
-🏗️ Nozzle Geometry Specifications
+# Nozzle Geometry Specifications
 
 Inlet Height: 15.41 mm
 Throat Height: 5.58 mm
@@ -20,7 +20,7 @@ Area Ratio (Ae/At): 2.28
 <img width="600" height="151" alt="image" src="https://github.com/user-attachments/assets/00012d3d-945a-4c64-b0d9-582244424e8b" />
 <img width="601" height="147" alt="image" src="https://github.com/user-attachments/assets/6383cb89-ff46-4a4f-a32e-9cb4164447eb" />
 
-🔬 Flow Physics Investigation
+# Flow Physics Investigation
 Compressible Flow Phenomena
 
 Subsonic Convergent Section: Acceleration and pressure drop
@@ -28,37 +28,37 @@ Sonic Throat Conditions: Choked flow at minimum area
 Supersonic Divergent Section: Further acceleration or shock formation
 Shock Wave Analysis: Normal/oblique shocks depending on back pressure
 
-Operating Conditions Study
+# Operating Conditions Study
 
 Under-expanded Flow: Low back pressure, supersonic exit
 Perfectly Expanded Flow: Design condition matching
 Over-expanded Flow: High back pressure, shock in divergent section
 Shock in Nozzle: Internal shock wave formation
 
-📊 Key Analysis Parameters
+#  Key Analysis Parameters
 Flow Properties
 
-✅ Mach Number Distribution: Subsonic to supersonic transition
+ Mach Number Distribution: Subsonic to supersonic transition
 
-✅ Pressure Ratio: Total to static pressure variations
+ Pressure Ratio: Total to static pressure variations
 
-✅ Temperature Distribution: Compressibility effects
+ Temperature Distribution: Compressibility effects
 
-✅ Density Changes: Compressible flow characteristics
+ Density Changes: Compressible flow characteristics
 
-✅ Velocity Profiles: Flow acceleration through nozzle
+ Velocity Profiles: Flow acceleration through nozzle
 
-Performance Metrics
+# Performance Metrics
 
-✅ Mass Flow Rate: Choked flow calculations
+ Mass Flow Rate: Choked flow calculations
 
-✅ Discharge Coefficient: Actual vs. theoretical flow
+ Discharge Coefficient: Actual vs. theoretical flow
 
-✅ Thrust Coefficient: Propulsive performance
+ Thrust Coefficient: Propulsive performance
 
-✅ Pressure Recovery: Diffuser performance (if applicable)
+ Pressure Recovery: Diffuser performance (if applicable)
 
-🛠️ CFD Methodology
+# CFD Methodology
 Solver Configuration
 
 Flow Type: Steady, compressible, inviscid/viscous
@@ -72,14 +72,14 @@ Walls: Adiabatic no-slip/slip conditions
 
 
 
-Numerical Setup
+# Numerical Setup
 
 Mesh: Structured quad/hex mesh with throat refinement
 Solver: Density-based compressible solver
 Discretization: Second-order upwind schemes
 Convergence: Residuals < 10^-6
 
-📈 Expected Results
+# Expected Results
 Flow Field Visualization
 
 Mach Number Contours: Supersonic flow development
